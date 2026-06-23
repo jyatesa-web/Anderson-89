@@ -1,0 +1,13 @@
+barbershop-website
+|
+|-index.html
+|
+-css/
+    |-styles.css
+|
+|-js/
+    |-main.js
+
+|-images
+    |-hero.jpg, feature1.jpg, cta-bg.jpg, footer-logo.png
+
