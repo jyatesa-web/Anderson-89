@@ -93,7 +93,7 @@ body {
 /* Mobile button hidden on desktop */
 .menu-btn {
                display: none;
-               border: 2px solid rgba(255,255,255,0.25);
+               border: 4px solid rgba(255,255,255,0.25);
                background: transparent;
                color: var(--color-text-light);
                padding: 8px 12px;
